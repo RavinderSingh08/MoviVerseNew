@@ -1,10 +1,6 @@
-# react-movie
+# MoviVerse
 
-    Responsive React Movies App With API
-
-# Video tutorial
-
-    https://youtu.be/ntYXj9W1Ez8
+    Responsive React Movies App
 
 # Resource
 
@@ -18,10 +14,8 @@
 
 # Preview
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721197-be990f3a-cae2-4757-9eb7-c0796f4a3834.png "Responsive React Movies App With API")
+![image](https://user-images.githubusercontent.com/76047915/149659146-7ae54288-bf9d-4bff-9c70-a1b187ee88e4.png)
+![image](https://user-images.githubusercontent.com/76047915/149659110-0f8c7e02-1629-4e15-aae5-4388b070d234.png)
+![image](https://user-images.githubusercontent.com/76047915/149659121-bb200d8e-bb25-49a2-9a7b-50b9610e765a.png)
+![image](https://user-images.githubusercontent.com/76047915/149659126-8b9be0ee-b45a-489a-898f-97919d928a58.png)
 
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721135-f64988cf-af31-495f-988c-c24ab10cbade.png "Responsive React Movies App With API")
-
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721056-733be8a6-7af6-424b-a74e-eb65980a5464.png "Responsive React Movies App With API")
-
-!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721118-cf5c59d2-31ff-4b06-86cb-262dd1b655fc.png "Responsive React Movies App With API")
