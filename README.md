@@ -1,21 +1,25 @@
 # MoviVerse
 
     Responsive React Movies App
+    
+# Live Project Link
+
+    MoviVerse: https://moviverseapp.netlify.app/
 
 # Resource
 
     Google font: https://fonts.google.com/
-
+    
     Boxicons: https://boxicons.com/
-
+    
     Images: https://unsplash.com/
-
+    
     API: https://www.themoviedb.org/
 
 # Preview
 
-![image](https://user-images.githubusercontent.com/76047915/149659146-7ae54288-bf9d-4bff-9c70-a1b187ee88e4.png)
-![image](https://user-images.githubusercontent.com/76047915/149659110-0f8c7e02-1629-4e15-aae5-4388b070d234.png)
-![image](https://user-images.githubusercontent.com/76047915/149659121-bb200d8e-bb25-49a2-9a7b-50b9610e765a.png)
-![image](https://user-images.githubusercontent.com/76047915/149659126-8b9be0ee-b45a-489a-898f-97919d928a58.png)
+![image](https://user-images.githubusercontent.com/76047915/149659235-84fb8f13-1465-47c9-a22f-f5867c6a4701.png)
 
+![image](https://user-images.githubusercontent.com/76047915/149659281-28954d3d-f15a-48d7-b852-e19cae3f3804.png)
+
+![image](https://user-images.githubusercontent.com/76047915/149659344-a1491a2f-5181-4360-a4ac-e40f8df67d1b.png)
