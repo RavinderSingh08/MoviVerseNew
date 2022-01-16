@@ -3,8 +3,8 @@
     Responsive React Movies App
     
 # Live Project Link
-
-    MoviVerse: https://moviverseapp.netlify.app/
+   
+   MoviVerse: https://moviverseapp.netlify.app/
 
 # Resource
 
